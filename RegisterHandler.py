@@ -2,6 +2,7 @@ class RegisterHandler:
     class ressources:
         _models = []
         _character = []
+        
         def get(self,name):
             pass
         def getAll(self):
